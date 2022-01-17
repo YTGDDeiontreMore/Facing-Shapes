@@ -1,6 +1,6 @@
 # __***VS Facing Shapes Source Code***__
 
-The coding was meant to be made by [ItzCapitalGaming](https://www.youtube.com/channel/UCBblx2t96xVQOm0z0dhQIbg) but he couldn't make it for some reason.
+The repository was meant to be made by [ItzCapitalGaming](https://www.youtube.com/channel/UCBblx2t96xVQOm0z0dhQIbg) but he couldn't make it for some reason.
 
 ## Credits
 
