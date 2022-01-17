@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "triangle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nice!!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that was easy.."
+		},
+		{
+			"speed": 0.245,
+			"portrait": "triangle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah.."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "triangle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well alright then you said it was easy so i guess i will make it a bit harder for you.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Ok!"
+		}
+	]
+}

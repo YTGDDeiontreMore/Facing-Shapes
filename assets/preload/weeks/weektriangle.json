@@ -1,0 +1,48 @@
+{
+	"storyName": "really,were facing off shapes now..",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Triangle",
+			"triangle",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Shapes",
+			"triangle",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Tryhard",
+			"triangle",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekName": "WeekTriangle"
+}

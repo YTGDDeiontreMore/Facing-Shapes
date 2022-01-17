@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alr that was a little better!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but its still easy tho.."
+		},
+		{
+			"speed": 0.095,
+			"portrait": "triangle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "triangle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you know, im really getting tired of you saying this..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "triangle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i guess im gonna have to go harder then.."
+		}
+	]
+}
